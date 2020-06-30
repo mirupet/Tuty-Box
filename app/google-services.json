@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219189671600",
+    "firebase_url": "https://tutybox-users.firebaseio.com",
+    "project_id": "tutybox-users",
+    "storage_bucket": "tutybox-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219189671600:android:c806d53b4b2d8c7e",
+        "android_client_info": {
+          "package_name": "technovation.tuty_boxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219189671600-i5bsl9ciugg16ppuncc3ptqk9lb7jg76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technovation.tuty_boxapp",
+            "certificate_hash": "d55da45832ff7e282ffca3fb1447d45353db1624"
+          }
+        },
+        {
+          "client_id": "219189671600-34d7rr41759qsdjk06449pgvis3e3b49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIoHLZdKyWIRZq-GHwYMcNzSx3MRejhfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219189671600-34d7rr41759qsdjk06449pgvis3e3b49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
